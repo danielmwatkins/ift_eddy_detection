@@ -1,0 +1,21 @@
+name: 'ift-eddies'
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - earthaccess
+  - jupyter
+  - geopandas
+  - xarray
+  - netcdf4
+  - pandas
+  - pyproj
+  - pyresample
+  - satpy
+  - shapely
+  - ultraplot
+  - rasterio
+  - scikit-image
+  - scikit-learn
+prefix: /opt/miniconda3/envs/ift-eddies

@@ -34,3 +34,7 @@ JuliaLocalPreferences.toml
 # IPython
 *.ipynb-checkpoints
 *.ipynb-checkpoints/
+*.ipynb-checkpoints/*
+
+# Apple
+.DS_Store
