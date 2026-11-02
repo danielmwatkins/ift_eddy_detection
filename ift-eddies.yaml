@@ -16,6 +16,8 @@ dependencies:
   - shapely
   - ultraplot
   - rasterio
+  - libgdal-hdf4
+  - rioxarray
   - scikit-image
   - scikit-learn
 prefix: /opt/miniconda3/envs/ift-eddies
